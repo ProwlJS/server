@@ -1,0 +1,27 @@
+{
+  "name": "prowl-server",
+  "version": "0.0.0",
+  "description": "ProwlJS Server Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProwlJS/server.git"
+  },
+  "keywords": [
+    "Prowl",
+    "ProwlJS",
+    "Server",
+    "Framework",
+    "MVC",
+    "ES6"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProwlJS/server/issues"
+  },
+  "homepage": "https://github.com/ProwlJS/server#readme"
+}
